@@ -1,0 +1,6 @@
+[package]
+name = "interval-set"
+version = "0.1.0"
+authors = ["Sainath Mallidi <sainathdreams@gmail.com>"]
+
+[dependencies]
